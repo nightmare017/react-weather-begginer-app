@@ -31,3 +31,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+When temperature lower then 16°C background is kind a frozzy
+![image](https://user-images.githubusercontent.com/67505897/110215877-b6bd3b80-7eb4-11eb-8777-ac6314824db7.png)
+
+When temperature above then 16°C background is more warmer
+![image](https://user-images.githubusercontent.com/67505897/110215930-fbe16d80-7eb4-11eb-860f-6a3d728258f7.png)
